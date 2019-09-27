@@ -1,0 +1,15 @@
+10+ SQL Queries
+=======================================
+01. List all customers
+02. Add new customer
+03. Edit customer
+04. Delete customer
+05. List order #n (name + price)
+06. Total sum of order #n
+07. Add new order
+08. Edit order
+09. Delete order
+10. Change order status (O -> P -> C)
+11. Change item price
+12. Show tracking (company + tracknum)
+13. Trigger
